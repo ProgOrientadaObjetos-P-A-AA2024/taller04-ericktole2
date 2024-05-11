@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package paquete02;
+package Paquete02T;
 
 /**
  *
@@ -31,7 +31,7 @@ public class LibretaNotas {
         calificacion3 = 10;
     }
 
-    public void estableverNombreEstudiante(String e) {
+    public void establecerNombreEstudiante(String e) {
 
         nombreEstudiante = e;
     }

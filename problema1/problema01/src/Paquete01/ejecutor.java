@@ -2,15 +2,15 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package proyecto001;
+package Paquete01;
 
-import paquete02.LibretaNotas;
+import Paquete02T.LibretaNotas;
 
 /**
  *
  * @author utpl
  */
-public class ejecutor {
+public class Ejecutor {
 
     public static void main(String[] args) {
         String nombreEstudiante;
