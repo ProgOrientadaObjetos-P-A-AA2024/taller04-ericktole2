@@ -31,8 +31,8 @@ public class Cheques {
         cliente = a;
     }
 
-    public void establecerBanco(String a) {
-        banco = a;
+    public void establecerBanco(String b) {
+        banco = b;
     }
 
     public void establecerValorCheque(double a) {
